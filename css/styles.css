@@ -115,7 +115,7 @@ address {
   display: block;
   fill: #2f2f37;
 }
-/* Header desktop */
+/* Header tablet */
 @media screen and (min-width: 768px) {
   .burger-btn {
     display: none;
