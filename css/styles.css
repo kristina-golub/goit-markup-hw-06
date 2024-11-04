@@ -754,8 +754,7 @@ address {
     width: calc((100% - 48px) / 3);
   }
 }
- {
-}
+
 /* footer */
 .footer-bg {
   background: #2e2f42;
