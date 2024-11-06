@@ -567,7 +567,7 @@ address {
 }
 .team-list {
   background-color: #f4f4fd;
-  padding: 96px;
+  padding: 96px 0;
   display: flex;
   justify-content: center;
   align-items: center;
