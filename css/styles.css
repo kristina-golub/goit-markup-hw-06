@@ -809,6 +809,7 @@ address {
 .footer-soc-items-list {
   display: flex;
   gap: 16px;
+  justify-content: center;
 }
 .footer-icons {
   width: 40px;
